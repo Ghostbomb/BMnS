@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "sketch": "sketch_mar29a.ino",
+    "port": "/dev/tty.usbmodem144101",
+    "output": ".build"
+}
